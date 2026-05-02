@@ -1,5 +1,7 @@
 # Bokutobi Remix
+## *"I Was Publicly Accused and Exposed, So I Jumped from the Rooftop"*
 
+> An open remix universe based on the original work.
 ## English
 
 This repository is an open space for **derivative works, remixes, and reinterpretations** of:
